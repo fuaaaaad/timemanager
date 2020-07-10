@@ -1,0 +1,64 @@
+.Build{
+    align-items: center;
+    display: inline-block;
+    padding: 50px;
+}
+
+.ButtonAdd {
+    background-color: #4CAF50; 
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5%;
+  }
+  .ButtonAdd:hover{
+    background-color: #9ffaa3;
+    border: black;
+    color: rgba(0, 0, 0, 0.534);
+  }
+
+  .ButtonSub {
+    background-color: rgb(180, 41, 41);
+    border: none;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 50px;
+    margin: 4px 2px;
+    cursor: pointer;
+    border-radius: 5%;
+  }
+
+  .ButtonSub:hover{
+    background-color: rgb(240, 100, 100);
+    border: black;
+    color: rgba(0, 0, 0, 0.548);
+  }
+
+  .Reset {
+    background-color: rgb(37, 37, 218);
+    border: none;
+    color: white;
+    padding: 20px;
+    display: inline-block;
+    width: 100%;
+    align-self: center;
+    text-decoration: none;
+    font-size: 20px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .Reset:hover{
+    background-color: rgb(85, 85, 255) ;
+    border: black;
+    color: rgba(0, 0, 0, 0.548);
+  }
